@@ -1,0 +1,14 @@
+C:\Users\Jakub\Desktop\singletonn\singletoon\bin\Debug\net9.0\singletoon.exe
+C:\Users\Jakub\Desktop\singletonn\singletoon\bin\Debug\net9.0\singletoon.deps.json
+C:\Users\Jakub\Desktop\singletonn\singletoon\bin\Debug\net9.0\singletoon.runtimeconfig.json
+C:\Users\Jakub\Desktop\singletonn\singletoon\bin\Debug\net9.0\singletoon.dll
+C:\Users\Jakub\Desktop\singletonn\singletoon\bin\Debug\net9.0\singletoon.pdb
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.AssemblyInfoInputs.cache
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.AssemblyInfo.cs
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.dll
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\refint\singletoon.dll
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.pdb
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\singletoon.genruntimeconfig.cache
+C:\Users\Jakub\Desktop\singletonn\singletoon\obj\Debug\net9.0\ref\singletoon.dll
